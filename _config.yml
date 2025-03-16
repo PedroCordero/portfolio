@@ -1,6 +1,5 @@
 title: Pedro Alejandro Cordero Jara
-#logo: /assets/img/CurriculumLatex.jpg
-![Octocat](/assets/img/CurriculumLatex.jpg)
+logo: /assets/img/CurriculumLatex.jpg
 description: text below image
 show_downloads: false
-theme: jekyll-theme-modernist
+theme: jekyll-theme-minimal
