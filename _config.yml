@@ -1,18 +1,16 @@
 title: Pedro Alejandro Cordero Jara
 logo: /assets/img/website2.png
 description: |
-  Hi, I'm Pedro Alejandro Cordero Jara, currently based in Budapest, Hungary.  
-  Feel free to reach me at your-email@example.com.  
-
-  ### Connect with me:
-  - [GitHub](https://github.com/your-username)
-  - [LinkedIn](https://www.linkedin.com/in/your-profile)
+  Master's student in Artificial Intelligence with a solid foundation in Electronics Engineering. 
+  I have over three years of experience as a Scientific Research Engineer and as an intern at a multinational automotive company. 
+  Skilled in AI, robotics, industrial automation, with a strong interest in LLM-based applications and operational technology. 
+  Proficient in English, I am seeking research-oriented roles to contribute to innovative AI solutions and further develop my technical expertise.
 show_downloads: false
 theme: jekyll-theme-minimal
 
 # Add personal details
 author: Pedro Alejandro Cordero Jara
-email: your-email@example.com
-linkedin: https://www.linkedin.com/in/your-profile
-github: https://github.com/your-username
+email: corderopedro593@gmail.com
+linkedin: https://www.linkedin.com/in/pedrocorderoj/
+github: https://github.com/PedroCordero
 location: Budapest, Hungary
