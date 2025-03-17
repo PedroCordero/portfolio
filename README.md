@@ -15,13 +15,15 @@ Feel free to reach me at [{{ site.email }}](mailto:{{ site.email }}) or find me 
 - Trained and fine-tuned a YOLO11 object detection model on an NVIDIA T4 GPU, achieving 90\% average confidence per target with fast convergence and real-time inference capabilities.
 
 **Scientific Research Engineer @ Universidad Politécnica Salesiana (_Feb 2022 - Jan 2023_)**
-- Developed robotic assistants for Autism Spectrum Disorder (ASD) therapy, creating platforms that improve social skills, and conducted a two-stage evaluation, achieving Kendall's Coefficient of Concordance (\(\omega=0.709\))\ and Cronbach's Alpha (\(\alpha = 0.94\)) for design and usability refinement.
+- Developed robotic assistants for Autism Spectrum Disorder (ASD) therapy, creating platforms that improve social skills, and conducted a two-stage evaluation, achieving Kendall's Coefficient of Concordance (ω=0.709) and Cronbach's Alpha (α = 0.94) for design and usability refinement.
 
 **Electronic Engineering Intern @ Continental Tire Andina S.A. (_Feb 2021 - Apr 2021_)**
 - Diagnosed and repaired SIEMENS SINAMICS speed controllers, integrated new industrial machines into VersionDog, and developed safety systems using Flexi Soft Designer.
 - Developed and implemented a test bench, upgrading tire testing systems with advanced laser sensors to improve measurement accuracy and quality assessment.
 
 ## Projects
+
+
 
 
 ## Publications  
