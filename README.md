@@ -1,7 +1,6 @@
-## About Me
-Master's student in Artificial Intelligence with a solid foundation in Electronics Engineering, currently based in **{{ site.location }}**. Over three years of experience as a Scientific Research Engineer and intern at a multinational automotive company. Skilled in AI, robotics, and automation, with a strong focus in data analysis, machine learning applications, and intelligent systems. Proficient in English, I am seeking opportunities to contribute to AI-powered solutions, software development, and advanced engineering projects in a dynamic and innovative environment.
+# Artificial Intelligence Portfolio  
 
-Feel free to reach me at [{{ site.email }}](mailto:{{ site.email }}) or find me in [LinkedIn]({{ site.linkedin }}).
+Welcome to my AI Portfolio! This portfolio highlights my expertise, projects, and experience in Artificial Intelligence, Robotics, and Automation. As a Master's student specializing in AI with a solid foundation in Electronics Engineering, I have worked on intelligent systems, machine learning, and advanced automation. With over three years of experience as a Scientific Research Engineer and an intern at a multinational automotive company, I am passionate about developing innovative AI-powered solutions and software applications for dynamic and evolving industries.  
 
 ## Education
 - M.S., Computer Science | Eötvös Loránd University (_July 2025_)
@@ -57,9 +56,11 @@ Implemented a pre-trained YOLOV7 model for object detection focused on synthetic
 
 ## Contact  
 
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-📞 **Phone:** +123 456 7890  
+Feel free to reach me at [{{ site.email }}](mailto:{{ site.email }}) or find me in [LinkedIn]({{ site.linkedin }}).
+
+📧 **Email:** [{{ site.email }}](mailto:{{ site.email }})  
+📞 **Phone:** +36704160343
 📄 **[Download My CV](https://yourwebsite.com/cv.pdf)**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]({{ site.linkedin }})  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroCordero)  
