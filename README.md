@@ -23,7 +23,10 @@ Feel free to reach me at [{{ site.email }}](mailto:{{ site.email }}) or find me 
 
 ## Projects
 
+### Object Detection using YOLOV7
+Implemented a pre-trained YOLOV7 model for object detection focused on synthetic fruits.
 
+![Object Detection](/assets/img/04gif.gif)
 
 
 ## Publications  
