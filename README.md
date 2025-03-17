@@ -21,6 +21,15 @@ Feel free to reach me at [{{ site.email }}](mailto:{{ site.email }}) or find me 
 - Diagnosed and repaired SIEMENS SINAMICS speed controllers, integrated new industrial machines into VersionDog, and developed safety systems using Flexi Soft Designer.
 - Developed and implemented a test bench, upgrading tire testing systems with advanced laser sensors to improve measurement accuracy and quality assessment.
 
+## Skills & Technologies  
+
+| 💻 Programming | 🚀 AI & ML | 🤖 Robotics | 🖥️ Tools & OS |
+|---------------|-----------|-------------|--------------|
+| Python | TensorFlow | ROS | Linux (Ubuntu) |
+| C++ | PyTorch | SLAM | Docker |
+| MATLAB | OpenCV | Path Planning | Git & GitHub |
+| Bash | NumPy & Pandas | Navigation | VS Code |
+
 ## Projects
 
 ### Object Detection using YOLOV7
