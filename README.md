@@ -56,7 +56,8 @@ Highlight AI-related competitions or hackathons you’ve participated in, especi
   [🔗 ACM Digital Library](https://dl.acm.org/doi/10.1145/3702468.3702470)  
 
 - 📄 **Conference paper.** *International Conference on Automation, Robotics, and Applications (ICARA),* 2025.  
-  *(Accepted for publication): LLM-based Task Planning for Mobile Robots Using a Novel SLAM Method for Materials Distribution.*  
+  *LLM-based Task Planning for Mobile Robots Using a Novel SLAM Method for Materials Distribution.*
+  [🔗 Publication in progress]
 
 ## Contact  
 
