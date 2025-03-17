@@ -55,3 +55,11 @@ Implemented a pre-trained YOLOV7 model for object detection focused on synthetic
 - 📄 **Conference paper.** *International Conference on Automation, Robotics, and Applications (ICARA),* 2025.  
   *(Accepted for publication): LLM-based Task Planning for Mobile Robots Using a Novel SLAM Method for Materials Distribution.*  
 
+## Contact  
+
+📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+📞 **Phone:** +123 456 7890  
+📄 **[Download My CV](https://yourwebsite.com/cv.pdf)**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
