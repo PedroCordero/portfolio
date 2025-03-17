@@ -36,6 +36,10 @@ Implemented a pre-trained YOLOV7 model for object detection focused on synthetic
 
 ![Object Detection](/assets/img/04gif.gif)
 
+## Competitions & Hackathons: 
+
+Highlight AI-related competitions or hackathons you’ve participated in, especially if you won or placed highly. Describe the challenges, your solutions, and results.
+
 
 ## Publications  
 
@@ -56,11 +60,11 @@ Implemented a pre-trained YOLOV7 model for object detection focused on synthetic
 
 ## Contact  
 
-Feel free to reach me at [{{ site.email }}](mailto:{{ site.email }}) or find me in [LinkedIn]({{ site.linkedin }}).
+Feel free to reach me at:
 
 📧 **Email:** [{{ site.email }}](mailto:{{ site.email }})  
-📞 **Phone:** +36704160343
-📄 **[Download My CV](https://yourwebsite.com/cv.pdf)**  
+📞 **Phone:** +36704160343  
+📄 **[Download My CV]([https://yourwebsite.com/cv.pdf](https://eltehu-my.sharepoint.com/:b:/g/personal/lvzwwz_student_elte_hu/ET1icw1KcQVNl8nDNTszmS0BbWSPoOUXcpiSpyMF5bImhg?e=mOZ1AZ))**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]({{ site.linkedin }})  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroCordero)  
