@@ -1,6 +1,12 @@
 title: Pedro Alejandro Cordero Jara
 logo: /assets/img/website2.png
-description: text below image
+description: |
+  Hi, I'm Pedro Alejandro Cordero Jara, currently based in Budapest, Hungary.  
+  Feel free to reach me at your-email@example.com.  
+
+  ### Connect with me:
+  - [GitHub](https://github.com/your-username)
+  - [LinkedIn](https://www.linkedin.com/in/your-profile)
 show_downloads: false
 theme: jekyll-theme-minimal
 
