@@ -1,10 +1,12 @@
 ## About Me
+Master's student in Artificial Intelligence with a solid foundation in Electronics Engineering. I have over three years of experience as a Scientific Research Engineer and as an intern at a multinational automotive company. Skilled in AI, robotics, industrial automation, with a strong interest in LLM-based applications and operational technology. Proficient in English, I am seeking research-oriented roles to contribute to innovative AI solutions and further develop my technical expertise.
+
 Hi, I'm **{{ site.author }}**, currently based in **{{ site.location }}**.  
 Feel free to reach me at [{{ site.email }}](mailto:{{ site.email }}) or find me in [LinkedIn]({{ site.linkedin }}).
 
 ## Education
-- M.S., Computer Science (AI)	| Eötvös Loránd University (_July 2025_)
-- B.S., Electronics  (Robotics) | Universidad Politécnica Salesiana (_Jan 2022_)
+- M.S., Computer Science | Eötvös Loránd University (_July 2025_)
+- B.S., Electronics | Universidad Politécnica Salesiana (_Jan 2022_)
 - H.S., Mechatronics | Unidad Educativa Técnico Salesiano (_July 2016_)
 
 ## Projects
