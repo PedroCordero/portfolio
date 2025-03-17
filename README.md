@@ -1,7 +1,6 @@
 ## About Me
-Master's student in Artificial Intelligence with a solid foundation in Electronics Engineering. I have over three years of experience as a Scientific Research Engineer and as an intern at a multinational automotive company. Skilled in AI, robotics, industrial automation, with a strong interest in LLM-based applications and operational technology. Proficient in English, I am seeking research-oriented roles to contribute to innovative AI solutions and further develop my technical expertise.
+Master's student in Artificial Intelligence with a solid foundation in Electronics Engineering, currently based in **{{ site.location }}**. Over three years of experience as a Scientific Research Engineer and intern at a multinational automotive company. Skilled in AI, robotics, and automation, with a strong focus in data analysis, machine learning applications, and intelligent systems. Proficient in English, I am seeking opportunities to contribute to AI-powered solutions, software development, and advanced engineering projects in a dynamic and innovative environment.
 
-Hi, I'm **{{ site.author }}**, currently based in **{{ site.location }}**.  
 Feel free to reach me at [{{ site.email }}](mailto:{{ site.email }}) or find me in [LinkedIn]({{ site.linkedin }}).
 
 ## Education
@@ -9,8 +8,21 @@ Feel free to reach me at [{{ site.email }}](mailto:{{ site.email }}) or find me 
 - B.S., Electronics | Universidad Politécnica Salesiana (_Jan 2022_)
 - H.S., Mechatronics | Unidad Educativa Técnico Salesiano (_July 2016_)
 
+## Work Experience
+**MSc Student Research Intern @ Eötvös Loránd University (_June 2024 - Jan 2025_)**
+- Designed and implemented an LLM-driven NLP system for robotics, integrating Meta-Llama-3.1-70B instruct and phi3-14b-medium-128k instruct, ensuring scalable and robust task execution in autonomous frameworks.
+- Developed and optimized multi-mobile robot path planning algorithms, utilizing safe-interval trajectory planning with a three-stage approach: pre-processing, RRT* for path generation, and post-processing with Bacterial Mutation and Node Deletion, improving navigation efficiency.
+- Trained and fine-tuned a YOLO11 object detection model on an NVIDIA T4 GPU, achieving 90\% average confidence per target with fast convergence and real-time inference capabilities.
+
+**Scientific Research Engineer @ Universidad Politécnica Salesiana (_Feb 2022 - Jan 2023_)**
+- Developed robotic assistants for Autism Spectrum Disorder (ASD) therapy, creating platforms that improve social skills, and conducted a two-stage evaluation, achieving Kendall's Coefficient of Concordance (\(\omega=0.709\))\ and Cronbach's Alpha (\(\alpha = 0.94\)) for design and usability refinement.
+
+**Electronic Engineering Intern @ Continental Tire Andina S.A. (_Feb 2021 - Apr 2021_)**
+- Diagnosed and repaired SIEMENS SINAMICS speed controllers, integrated new industrial machines into VersionDog, and developed safety systems using Flexi Soft Designer.
+- Developed and implemented a test bench, upgrading tire testing systems with advanced laser sensors to improve measurement accuracy and quality assessment.
+
 ## Projects
-Hi
+
 
 ## Publications  
 
