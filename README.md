@@ -44,6 +44,8 @@ Socializer is an AI-powered platform designed to help individuals with autism im
 [🔗 Website](https://socializer-nine.vercel.app/)
 [🔗 GitHub Repo](https://github.com/sorryka1999/socializer)  
 
+![Socializer](/assets/img/socializer4.gif)
+
 ### Object Detection using YOLOV7
 Implemented a pre-trained YOLOV7 model for object detection focused on synthetic fruits.
 
