@@ -7,6 +7,8 @@ Welcome to my AI Portfolio! This portfolio highlights my expertise, projects, an
 - B.S., Electronics | Universidad Politécnica Salesiana (_Jan 2022_)
 - H.S., Mechatronics | Unidad Educativa Técnico Salesiano (_July 2016_)
 
+[Link to another page](./another-page.html).
+
 ## Work Experience
 **MSc Student Research Intern @ Eötvös Loránd University (_June 2024 - Jan 2025_)**
 - Designed and implemented an LLM-driven NLP system for robotics, integrating Meta-Llama-3.1-70B instruct and phi3-14b-medium-128k instruct, ensuring scalable and robust task execution in autonomous frameworks.
