@@ -41,8 +41,9 @@ Welcome to my AI Portfolio! This portfolio highlights my expertise, projects, an
 
 ## Competitions & Hackathons: 
 
-Highlight AI-related competitions or hackathons you’ve participated in, especially if you won or placed highly. Describe the challenges, your solutions, and results.
+### IEEEXTREME Programming Competition 14.0
 
+![ieeextreme](/assets/img/ieeextreme.png)
 
 ## Publications  
 
