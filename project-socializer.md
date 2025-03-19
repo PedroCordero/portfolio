@@ -28,7 +28,11 @@ Socializer is an AI-powered platform designed to help individuals with autism im
 *Demostration Socializer plataform*
 
 [🔗 Website](https://socializer-nine.vercel.app/)
+
 [🔗 GitHub Repo](https://github.com/sorryka1999/socializer)
+
 [🔗 Docker hub](https://hub.docker.com/repository/docker/sorryka/socializer/general)
+
+[🔗 GitHub Repo Ref](https://github.com/Zielon/INSTA-pytorch)
 
 [back](./)
