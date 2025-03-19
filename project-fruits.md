@@ -21,6 +21,6 @@ The YOLOv7 model demonstrated strong performance in object detection, achieving 
 *YOLOv7 training results: Loss reduction and performance metrics over epochs*
 
 
-[🔗 NoGitHub Repo](https://github.com/sorryka1999/socializer)  
+[🔗 GitHub Repo](https://github.com/PedroCordero/ObjectDetectionFruits)  
 
 [back](./)
