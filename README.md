@@ -35,10 +35,9 @@ Welcome to my AI Portfolio! This portfolio highlights my expertise, projects, an
 
 ![Socializer](/assets/img/project-socializer.gif)
 
-### Object Detection using YOLOV7
-Implemented a pre-trained YOLOV7 model for object detection focused on synthetic fruits.
+### [YOLOv7 Object Detection Model Training and Evaluation](./project-fruits.html).
 
-![Object Detection](/assets/img/project-fruits.gif)
+![Fruits](/assets/img/project-fruits.gif)
 
 ## Competitions & Hackathons: 
 
