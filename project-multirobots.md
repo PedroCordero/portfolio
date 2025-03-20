@@ -12,7 +12,6 @@ This research introduces the Improved RRT* with Reduced Random Map Size (IRRT*-R
 - *Real-Robot Implementation:* Validated through three scenarios—head-on navigation, static obstacle avoidance, and dynamic obstacle avoidance.
 
 ### Pseudo algorithm: Virtual Obstacles
-## Virtual Obstacle Adding Algorithm
 
 ```pseudo
 Algorithm VirtualObstacleAdding()
@@ -43,6 +42,8 @@ The proposed method successfully achieves *collision-free* multi-robot path plan
 
 *Case: Robot 1 local path solution after head-on situation with No Obstacles*
 
-[🔗 Publication]([https://github.com/Zielon/INSTA-pytorch](https://dl.acm.org/doi/10.1145/3702468.3702470))
+For more information, please read the scientific paper:
+
+[🔗 Publication](https://dl.acm.org/doi/10.1145/3702468.3702470)
 
 [back](./)
