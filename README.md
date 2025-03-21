@@ -48,7 +48,7 @@ Welcome to my AI Portfolio! This portfolio highlights my expertise, projects, an
 
 ### [Obi: Mobile Robot for Emotional Learning in Individuals with ASD](./project-obi.html).
 
-![Obi](https://drive.google.com/file/d/1YnKKSZ2-UqE5VfOUCkBxowquNcqKzYpp/view?usp=sharing)
+![Obi](https://github.com/PedroCordero/portfolio/releases/download/v1.0/project-obi5.gif)
 
 ## Competitions & Hackathons: 
 
