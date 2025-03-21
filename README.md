@@ -46,6 +46,10 @@ Welcome to my AI Portfolio! This portfolio highlights my expertise, projects, an
 
 ![multirobots](/assets/img/project-multirobots.gif)
 
+### [Obi: Mobile Robot for Emotional Learning in Individuals with ASD](./project-obi.html).
+
+![Obi](https://drive.google.com/file/d/1YnKKSZ2-UqE5VfOUCkBxowquNcqKzYpp/view?usp=sharing)
+
 ## Competitions & Hackathons: 
 
 ### IEEEXTREME Programming Competition 14.0
