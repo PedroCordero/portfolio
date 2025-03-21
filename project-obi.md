@@ -2,7 +2,7 @@
 
 This research presents the design and evaluation of a robotic assistant aimed at improving emotional learning in individuals with Autism Spectrum Disorder (ASD). The robot was developed to simulate human-like emotions through facial expressions, colors, sounds, and movement, assisting in therapeutic interventions.
 
-![Obi](https://drive.google.com/file/d/1YnKKSZ2-UqE5VfOUCkBxowquNcqKzYpp/view?usp=sharing)
+![Obi](./assets/img/project-obi6.gif)
 
 #### Key Features
 
@@ -18,6 +18,22 @@ This research presents the design and evaluation of a robotic assistant aimed at
 - *Therapeutic Usability Feedback*: 78% of practitioners found the robot useful for emotional learning exercises.
 - *Future Refinements Identified*: Further improvements needed in emotion expressiveness before direct trials with ASD individuals.
 - *Replicable Evaluation Framework*: Provides a structured method for validating assistive robotics before deployment in therapy settings.
+
+![Obi](./assets/img/project-obi4.png)
+
+*Desing and center of gravity of the robotic assistant (front and side view)*
+
+![Obi](./assets/img/project-obi2.png)
+
+*Trajectory generation through a position and velocity interpolator*
+
+![Obi](./assets/img/project-obi3.png)
+
+*Emotional states of the Robotic Assistant (male and female character)*
+
+![Obi](./assets/img/project-obi7.gif)
+
+*Robot hardware disassembly (simulation)*
 
 For more information, please read the scientific paper:
 
