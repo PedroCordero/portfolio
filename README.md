@@ -80,7 +80,7 @@ Feel free to reach me at:
 
 📧 **Email:** [{{ site.email }}](mailto:{{ site.email }})  
 📞 **Phone:** +36704160343  
-📄 **[Download My CV]([https://yourwebsite.com/cv.pdf](https://eltehu-my.sharepoint.com/:b:/g/personal/lvzwwz_student_elte_hu/EcdXtZwdOLNOphWg51yTY-wBFLmKfLPYU9CiUu73Qt69Ig?e=bhmhhk))**  
+📄 **[Download My CV](https://eltehu-my.sharepoint.com/:b:/g/personal/lvzwwz_student_elte_hu/EcdXtZwdOLNOphWg51yTY-wBFLmKfLPYU9CiUu73Qt69Ig?e=bhmhhk)**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]({{ site.linkedin }})  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroCordero)  
