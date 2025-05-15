@@ -8,6 +8,10 @@ Welcome to my AI Portfolio! This portfolio highlights my expertise, projects, an
 - H.S., Mechatronics | Unidad Educativa Técnico Salesiano (_July 2016_)
 
 ## Work Experience
+**Information Technology Field Engineer (Freelance) @ Dacoreit (_March 2025 - Now_)**
+-  Provided on-site IT support across 10+ client locations in Hungary, troubleshooting hardware and network issues with a 100\% task completion rate under strict SLA requirements.
+-  Installed, configured, and tested IT infrastructure in enterprise environments, ensuring full operational functionality and compliance with documentation procedures across all assigned tasks.
+
 **MSc Student Research Intern @ Eötvös Loránd University (_June 2024 - Jan 2025_)**
 - Designed and implemented an LLM-driven NLP system for robotics, integrating Meta-Llama-3.1-70B instruct and phi3-14b-medium-128k instruct, ensuring scalable and robust task execution in autonomous frameworks.
 - Developed and optimized multi-mobile robot path planning algorithms, utilizing safe-interval trajectory planning with a three-stage approach: pre-processing, RRT* for path generation, and post-processing with Bacterial Mutation and Node Deletion, improving navigation efficiency.
@@ -72,7 +76,7 @@ Welcome to my AI Portfolio! This portfolio highlights my expertise, projects, an
 
 - 📄 **Conference paper.** *International Conference on Automation, Robotics, and Applications (ICARA),* 2025.  
   *LLM-based Task Planning for Mobile Robots Using a Novel SLAM Method for Materials Distribution.*
-  [🔗 Publication in progress]
+  [🔗 IEEEXPLORE](https://ieeexplore.ieee.org/document/10977631)
 
 ## Contact  
 
