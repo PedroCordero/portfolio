@@ -38,23 +38,31 @@ Welcome to my AI Portfolio! This portfolio highlights my expertise, projects, an
 
 ## Projects
 
-### [Socializer: AI-Driven Emotional Recognition for Autism](./project-socializer.html).  
+### [LLM-based Task Planning for Mobile Robots](./project-llm.html).
 
-![Socializer](/assets/img/project-socializer.gif)
-
-### [YOLOv7 Object Detection Model Training and Evaluation](./project-fruits.html).
-
-![Fruits](/assets/img/project-fruits.gif)
-
-### [Multi-Robot Path Planning with IRRT*-RRMS and Right-of-Way Rule](./project-multirobots.html).  
-
-![multirobots](/assets/img/project-multirobots.gif)
+![LLM](/assets/img/project-llm.gif)
 
 ### [Obi: Mobile Robot for Emotional Learning in Individuals with ASD](./project-obi.html).
 
 ![Obi](https://github.com/PedroCordero/portfolio/releases/download/v1.0/project-obi5.gif)
 
+### [Socializer: AI-Driven Emotional Recognition for Autism](./project-socializer.html).  
+
+![Socializer](/assets/img/project-socializer.gif)
+
+### [Multi-Robot Path Planning with IRRT*-RRMS and Right-of-Way Rule](./project-multirobots.html).  
+
+![multirobots](/assets/img/project-multirobots.gif)
+
+### [YOLOv7 Object Detection Model Training and Evaluation](./project-fruits.html).
+
+![Fruits](/assets/img/project-fruits.gif)
+
 ## Competitions & Hackathons: 
+
+### 37th National Scientific Students’ Associations Conference (OTDK)
+
+![otdk](/assets/img/certificate-otdk.png)
 
 ### IEEEXTREME Programming Competition 14.0
 
