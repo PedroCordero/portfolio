@@ -28,12 +28,12 @@ Welcome to my AI Portfolio! This portfolio highlights my expertise, projects, an
 
 | 💻 Programming Languages | 🚀 AI/ML & Data Science | 🤖 Robotics & Automation | 🖥️ Design & Simulation Software |
 |--------------------------|------------------------|--------------------------|--------------------------------|
-| **Python**              | **TensorFlow / PyTorch** | **ROS / ROS2**          | **MATLAB / Simulink**         |
-| **C / C++**            | **OpenCV**             | **SLAM & Localization**  | **Gazebo / Webots**           |
-| **SQL**                | **NumPy / Pandas**      | **Path Planning & Navigation** | **ANSYS / SolidWorks**    |
-| **Bash**               | **Scikit-learn**        | **PLC & Industrial Automation** | **Altium Designer**     |
-| **JavaScript / TypeScript** | **AWS / Cloud ML**   | **Computer Vision**     | **Proteus / Multisim**       |
-| **R**                  | **Git, GitHub & MLOps** | **Reinforcement Learning** | **Xilinx Vivado (FPGA)**  |
+| *Python*              | *TensorFlow / PyTorch* | *ROS / ROS2*          | *MATLAB / Simulink*         |
+| *C / C++*            | *OpenCV*             | *SLAM & Localization*  | *Gazebo / Webots*           |
+| *SQL*                | *NumPy / Pandas*      | *Path Planning & Navigation* | *ANSYS / SolidWorks*    |
+| *Bash*               | *Scikit-learn*        | *PLC & Industrial Automation* | *Altium Designer*     |
+| *JavaScript / TypeScript* | *AWS / Cloud ML*   | *Computer Vision*     | *Proteus / Multisim*       |
+| *R*                  | *Git, GitHub & MLOps* | *Reinforcement Learning* | *Xilinx Vivado (FPGA)*  |
 
 
 ## Projects
@@ -53,6 +53,10 @@ Welcome to my AI Portfolio! This portfolio highlights my expertise, projects, an
 ### [Multi-Robot Path Planning with IRRT*-RRMS and Right-of-Way Rule](./project-multirobots.html).  
 
 ![multirobots](/assets/img/project-multirobots.gif)
+
+### Interactive Graph Search Visualizer
+
+![labyrinth](/assets/img/project-lab1.gif)
 
 ### [YOLOv7 Object Detection Model Training and Evaluation](./project-fruits.html).
 
