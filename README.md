@@ -54,7 +54,7 @@ Welcome to my AI Portfolio! This portfolio highlights my expertise, projects, an
 
 ![multirobots](/assets/img/project-multirobots.gif)
 
-### Interactive Graph Search Visualizer
+### [Interactive Graph Search Visualizer](./project-lab.html). 
 
 ![labyrinth](/assets/img/project-lab1.gif)
 
