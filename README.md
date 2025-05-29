@@ -62,6 +62,10 @@ Welcome to my AI Portfolio! This portfolio highlights my expertise, projects, an
 
 ![Fruits](/assets/img/project-fruits.gif)
 
+### [Lazy Learning for Disease Progression Prediction using kNN and RNR](./project-diabetes.html).
+
+![diabetes](/assets/img/project-diabetes.gif)
+
 ## Competitions & Hackathons: 
 
 ### 37th National Scientific Students’ Associations Conference (OTDK)
