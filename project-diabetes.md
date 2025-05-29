@@ -35,4 +35,6 @@ This project applies lazy learning algorithms — specifically K-Nearest Neighbo
 
 *Results: Kernel density estimation (KDE).*
 
+[🔗 Github repository](https://github.com/PedroCordero/diabetes-lazy-learning.git)
+
 [back](./)
