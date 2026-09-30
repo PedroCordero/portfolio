@@ -2,7 +2,7 @@
 
 Socializer is an AI-powered platform designed to help individuals with autism improve their emotional recognition skills. Using AI-generated avatars and scenarios, Socializer creates immersive learning experiences that enhance users' ability to interpret emotions in real-life social interactions.  
 
-![Socializer](/assets/img/project-socializer2.png)
+![Socializer](assets/img/project-socializer2.webp)
 
 #### Key Features  
 
@@ -19,13 +19,13 @@ Socializer is an AI-powered platform designed to help individuals with autism im
 | Creativity and Innovation | Encourage the exploration and implementation of innovative features or ideas within the project to enhance its functionality or appeal | ci+=1*n n=number of proposed ideas that we judge as creative/amount of extra effort performed | 5 | 2 | The project has a very good social impact but lacks innovative ideas. |
 | Team Satisfaction and Collaboration | Collect feedback from team members regarding their satisfaction with the project, team dynamics, and overall collaboration experience | tsc=sum(f)/5 f=feedback (1 to 5) of each team member about their satisfaction with the project | 5 | 5 | Feedback was collected from each team member. |
 
-![Socializer](/assets/img/project-socializer3.gif)
+![Socializer](assets/img/project-socializer3.webp)
 
 *INSTA - Instant Volumetric Head Avatars (pytorch) sample*
 
-![Socializer](/assets/img/project-socializer.gif)
+![Socializer](assets/img/project-socializer.webp)
 
-*Demostration Socializer plataform*
+*Demonstration of the Socializer platform*
 
 [🔗 Website](https://socializer-nine.vercel.app/)
 

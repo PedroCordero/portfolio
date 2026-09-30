@@ -2,7 +2,7 @@
 
 This project applies lazy learning algorithms — specifically K-Nearest Neighbors (kNN) and Radius Neighbors Regressor (RNR) — to predict diabetes disease progression from a real-world dataset. The dataset contains 10 clinical features including blood pressure, body mass index (BMI), and serum measurements. Cross-validation and hyperparameter tuning are used to maximize model performance.
 
-![diabetes](/assets/img/project-diabetes.gif)
+![diabetes](assets/img/project-diabetes.webp)
 
 #### Key Features  
 
@@ -12,7 +12,7 @@ This project applies lazy learning algorithms — specifically K-Nearest Neighbo
 - Hyperparameter tuning using GridSearchCV
 - Model evaluation with MSE and R² Score
 
-![diabetes](/assets/img/project-diabetes.png)
+![diabetes](assets/img/project-diabetes.webp)
 
 ### Results:
 
@@ -27,11 +27,11 @@ This project applies lazy learning algorithms — specifically K-Nearest Neighbo
 - Standardization is essential for distance-based learning.
 - R² = 0.42 is a decent result for non-parametric models on noisy, real-world health data — it indicates the model is extracting some structure, but more sophisticated models (like Random Forest or XGBoost) could do better.
 
-![diabetes](/assets/img/project-diabetes2.png)
+![diabetes](assets/img/project-diabetes2.webp)
 
 *Regression Results: True vs Predicted.*
 
-![diabetes](/assets/img/project-diabetes3.png)
+![diabetes](assets/img/project-diabetes3.webp)
 
 *Results: Kernel density estimation (KDE).*
 

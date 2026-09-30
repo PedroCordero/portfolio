@@ -2,7 +2,7 @@
 
 This research introduces the Improved RRT* with Reduced Random Map Size (IRRT*-RRMS), combined with the Right-of-Way (RoW) Rule for efficient multi-robot path planning. The RoW Rule enhances local navigation by integrating a virtual obstacle shape, guiding robots to avoid unknown obstacles while prioritizing right-side paths for optimized collision-free motion.  
 
-![multirobots](/assets/img/project-multirobots.gif)
+![multirobots](assets/img/project-multirobots.webp)
 
 #### Key Features  
 
@@ -38,7 +38,7 @@ Algorithm VirtualObstacleAdding()
 
 The proposed method successfully achieves *collision-free* multi-robot path planning with *optimal* path selection. It adapts efficiently to dynamic environments and was successfully tested on real mobile robots, proving its effectiveness in practical scenarios.
 
-![multirobots](/assets/img/project-multirobots2.png)
+![multirobots](assets/img/project-multirobots2.webp)
 
 *Case: Robot 1 local path solution after head-on situation with No Obstacles*
 

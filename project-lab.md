@@ -1,7 +1,7 @@
 ### Interactive Graph Search Visualizer
 
 Developed a fully interactive labyrinth based GUI application in Python to demonstrate and compare classic graph search algorithms. The application simulates a game environment where a virtual cat must navigate mazes under different goals and constraints using search strategies like DFS, BFS, A*, and heuristic guided methods.
-![labyrinth](/assets/img/project-lab1.gif)
+![labyrinth](assets/img/project-lab1.webp)
 
 #### Key Features  
 
@@ -15,11 +15,11 @@ Developed a fully interactive labyrinth based GUI application in Python to demon
 - Improved understanding of heuristic behavior and algorithm performance trade-offs through direct user interaction.
 - Successfully showcased the value of interactive learning tools in algorithm education and AI search problems.
 
-![labyrinth](/assets/img/project-lab2.gif)
+![labyrinth](assets/img/project-lab2.gif)
 
 *Problem sample: Get to the exit.*
 
-![labyrinth](/assets/img/project-lab3.gif)
+![labyrinth](assets/img/project-lab3.gif)
 
 *Problem sample: Eat all the donuts, then get to the exit.*
 

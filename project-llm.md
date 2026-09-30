@@ -2,19 +2,19 @@
 
 This work introduces an integrated autonomous mobile robot system for real-time material distribution in factory environments. By combining natural language processing for task interpretation, top-view color-based object detection for map creation, and the IRRT*-RRMS algorithm for path planning, the system enables flexible and scalable operation without relying on traditional navigation methods.
 
-![llm](/assets/img/project-llm.gif)
+![llm](assets/img/project-llm.webp)
 
 #### Key Features  
 
 - *Collision-Free Navigation:* Ensures safe multi-robot movement using the RoW Rule.
 - *Top-View Mapping:* Uses fisheye images and color-based object detection to create occupancy maps for navigation.
 - *Natural Language Processing:* Integrates NLP and LLMs to interpret user commands and assembly instructions.
-- *Novel SLAM Mapping:* Generates fester maps without conventional SLAM techniques.
+- *Novel SLAM Mapping:* Generates faster maps without conventional SLAM techniques.
 - *Advanced Path Planning:* Utilizes IRRT*-RRMS for efficient and adaptive motion control in real environments.
 
 ### System overview
 
-![llm](/assets/img/project-llm3.png)
+![llm](assets/img/project-llm3.webp)
 
 ```pseudo
 Partial Prompt of LLM1
@@ -42,11 +42,11 @@ Partial Prompt of LLM1
 
 Tested on a TurtleBot3 Waffle Pi with OpenManipulator-X, the system successfully executed material distribution for complex assembly scenarios (e.g., bolts, nuts, and screws in model H), demonstrating reliable performance and adaptability in dynamic industrial settings.
 
-![llm](/assets/img/project-llm2.jpg)
+![llm](assets/img/project-llm2.webp)
 
 *Model H sample: optimized routes performed.*
 
-![llm](/assets/img/project-llm1.png)
+![llm](assets/img/project-llm1.webp)
 
 *Exported Chat History*
 

@@ -8,16 +8,16 @@ This project focuses on training and evaluating an object detection model using 
 - *Performance Metrics* – Evaluates precision, recall, and mean average precision (mAP@0.5 and mAP@0.5:0.95) to measure detection accuracy.
 - *Visualization of Learning Progress* – Plots loss reduction and performance improvements over training epochs.
 
-![Fruits](/assets/img/project-fruits.gif)
+![Fruits](assets/img/project-fruits.webp)
 
 ### Results
 The YOLOv7 model demonstrated strong performance in object detection, achieving an increasing trend in precision and recall throughout training. The mAP@0.5 exceeded 60%, indicating reliable detection accuracy. The validation loss decreased significantly, confirming effective learning. The results suggest that the model is well-suited for object detection tasks, and further fine-tuning could improve performance even more.
 
-![Fruits](/assets/img/project-fruits2.png)
+![Fruits](assets/img/project-fruits2.webp)
 
-![Fruits](/assets/img/project-fruits3.jpg)
+![Fruits](assets/img/project-fruits3.webp)
 
-![Fruits](/assets/img/project-fruits4.png)
+![Fruits](assets/img/project-fruits4.webp)
 *YOLOv7 training results: Loss reduction and performance metrics over epochs*
 
 

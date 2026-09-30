@@ -40,7 +40,7 @@ Welcome to my AI Portfolio! This portfolio highlights my expertise, projects, an
 
 ### [LLM-based Task Planning for Mobile Robots](./project-llm.html).
 
-![LLM](/assets/img/project-llm.gif)
+![LLM](assets/img/project-llm.webp)
 
 ### [Obi: Mobile Robot for Emotional Learning in Individuals with ASD](./project-obi.html).
 
@@ -48,33 +48,33 @@ Welcome to my AI Portfolio! This portfolio highlights my expertise, projects, an
 
 ### [Socializer: AI-Driven Emotional Recognition for Autism](./project-socializer.html).  
 
-![Socializer](/assets/img/project-socializer.gif)
+![Socializer](assets/img/project-socializer.webp)
 
 ### [Multi-Robot Path Planning with IRRT*-RRMS and Right-of-Way Rule](./project-multirobots.html).  
 
-![multirobots](/assets/img/project-multirobots.gif)
+![multirobots](assets/img/project-multirobots.webp)
 
 ### [Interactive Graph Search Visualizer](./project-lab.html). 
 
-![labyrinth](/assets/img/project-lab1.gif)
+![labyrinth](assets/img/project-lab1.webp)
 
 ### [YOLOv7 Object Detection Model Training and Evaluation](./project-fruits.html).
 
-![Fruits](/assets/img/project-fruits.gif)
+![Fruits](assets/img/project-fruits.webp)
 
 ### [Lazy Learning for Disease Progression Prediction using kNN and RNR](./project-diabetes.html).
 
-![diabetes](/assets/img/project-diabetes.gif)
+![diabetes](assets/img/project-diabetes.webp)
 
 ## Competitions & Hackathons: 
 
 ### 37th National Scientific Students’ Associations Conference (OTDK)
 
-![otdk](/assets/img/certificate-otdk.png)
+![otdk](assets/img/certificate-otdk.webp)
 
 ### IEEEXTREME Programming Competition 14.0
 
-![ieeextreme](/assets/img/ieeextreme.png)
+![ieeextreme](assets/img/ieeextreme.webp)
 
 ## Publications  
 
@@ -99,7 +99,6 @@ Welcome to my AI Portfolio! This portfolio highlights my expertise, projects, an
 Feel free to reach me at:
 
 📧 **Email:** [{{ site.email }}](mailto:{{ site.email }})  
-📞 **Phone:** +36704160343  
 📄 **[Download My CV](https://eltehu-my.sharepoint.com/:b:/g/personal/lvzwwz_student_elte_hu/EcdXtZwdOLNOphWg51yTY-wBFLmKfLPYU9CiUu73Qt69Ig?e=bhmhhk)**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]({{ site.linkedin }})  
